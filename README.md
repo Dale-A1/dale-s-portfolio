@@ -1,2 +1,2 @@
-# dale-s-portfolio
+# dale's-portfolio
 Analytic's Portfolio
